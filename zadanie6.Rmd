@@ -1,0 +1,370 @@
+---
+title: "zadanie6"
+author: "Mikołaj Voelkner"
+date: "26 maja 2018"
+output:
+  html_document:
+    theme: united
+    highlight: kate
+    df_print: paged
+---
+
+## Notatki na  *Psychologię poznawczą*
+
+**Ładnie wygenerowane notatki**
+
+***
+
+###Pamięć###
+
+1. Zdolność neuropoznawcza do kodowania, magazynowania i przywoływania informacji
+2. Umysłowy (mózgowy) magazyn informacji
+3. Wewnętrzny zapis informacji lub umysłowa reprezentacja wcześniejszego doświadczenia
+4. Zbiór procesów prowadzących do wytworzenia umysłowej reprezentacji informacji, jej przechowywania i wydobywania
+
+**Model pamięci Atkinsona i Shiffrina**
+
+->Pamięć sensoryczna -> pamięć krótkotrwała (niewielka pojemność) <-> pamięć długotrwała (duża pojemność)
+
+W powyższym modelu pamięci informacje sensoryczne są przechowywane w pamięci sensorycznej na kilkadziesiąt do kilkuset milisekund, zanim trafią do pamięci krótkotrwałej. Jeśli treść tej pamięci nie jest podtrzymywana przez powtarzanie znika w ciągu 15-30sek. Informacje z pamięci krótkotrwałej po przetworzeniu mogą służyć do odpowiedzi lub trafiają do pamięci długotrwałej.
+
+**Obecny model - teoria świadomości**
+
+Informacja -> pamięć sensoryczna -> pamięć krótkotrwała (-> lub zapominanie) <-> pamięć trwała
+
+Informacje z pamięci krótkotrwałej są przenoszone do pamięci trwałej. Przypominanie wymaga wydobycia informacji z pamięci trwałej i przeniesienia ich do pamięci krótkotrwałej - ta pamięć jest świadoma. Pamięć długotrwała to magazyn, gdzie dane przekazywane są poza świadomością. Uświadamiamy je sobie, gdy znajdą się one ponownie w pamięci krótkotrwałej.
+
+*Pamięć sensoryczna - pamięć ultrakrótkotrwała*
+
+- pamięć sensoryczna
+- bufor sensoryczny
+- pamięć ikoniczna - wzrokowa pamięć sensoryczna
+- pamięć echoiczna - słuchowa pamięć sensoryczna
+
+Przez pamięć sensoryczną rozumiemy przechowywanie efektów stymulacji zmysłowej na okres maksymalnie kilkuset milisekund. O istnieniu tej pamięci możemy się przekonać, obserwując jasny obiekt, poruszający się szybko w ciemności: spostrzegamy go tak jakby ciągnął za sobą smugę światła.
+
+*Przetwarzanie efektów wzrokowych*
+
+>**Doświadczenie Sperlinga**
+Wyświetlał on badanym prze 50ms tablicę złożoną z liter. W 1 części badania, uczestników proszono o podanie wszystkich liter, które zapamiętali. Okazało się, że są w stanie podać 4-5 liter. Badacz następnie zmienił zadanie: krótko po wyświetleniu tablicy prezentował dźwięk o określonej wysokości, który miał wykazać badanemu właściwi rząd. Uczestnicy adtwarzali średnio 3,3 litery z 4.
+
+####Pamięć operacyjna
+
+System zdolny do zapamiętywania informacji przez krótki czas i manipulowania nimi, odgrywa on istotną rolę w organizacji złożonych funkci poznawczych.
+
+**Organizacja pamięci operacyjnej**
+
+Według Baddeleya i Hitcha **pamięć operacyjna** składa się z kilku elementów. Podstawowym jest centralny mechanizm wykonawczy. Jego pracę wspomaga kilka podręcznych magazynów pamięciowych, przechowujących ważne w danej chwili inspiracje: przede wszystkim podręczna pamięć werbalna oraz *notes wzrokowo-przestrzenny*.
+
+**Model wielomagazynowy** podkreśla strukturalne pojemniki (przechowywanie bierne) do przechowywania informacji, a moda pamięci operacyjnej podkreśla funkcje pamięci operacyjnej w kierowaniu takimi procesami pamięci jak kodowanie i integrowanie informacji (ciągłe generowanie i manipulowanie obrazami i dźwiękami, i koordynacja ich integracji w sensowne całości). - *część pamięci długotrwałej*
+
+**Koncepcja poziomów przetwarzania** - istnieje nieskończona liczba poziomów przetwarzania, nie ma między nimi wyraźnych granic.
+
+Im głębszy poziom przetwarzania wywołany przez pytanie tym wyższy poziom odtworzeń. - eksperyment
+
+####Pamięć semantyczna
+**Endel Tulving**
+Ogólna wiedza główna - pamięć faktów, które nie są dla nas jednostkowe i nie są odtwarzane w określonym kontekście czasowym. *wiedza faktograficzna*
+
+**Pamięć epizodyczna** jest to pamięć o zdarzeniach:
+
+- z własnego życia (pamięć autobiograficzna)
+- o innych bieżących zdarzeniach (nie dotyczących mnie osobiście)
+
+
+|       Cecha                   |   Pamięć epizodyczna    |Pamięć semantyczna       |
+|:---------------------------|:-----------------------:|------------------------:|
+|Przydatność w wykształceniu  |Brak                     |Bardzo istotna           |
+|Ogólna przydatność           |Nieznaczna               |Znaczna                  |
+|Dowody empiryczne            |Zapominanie              |Analiza języka           |
+|Świadectwo w sądzie          |Dopuszczalne (świadkowie)|Niedopuszczalne          | 
+|Podatność na amnezję         |Możliwa                  |Niemożliwa               |
+|   |   |   |
+|Źródło                       |Czyste doznania zmysłowe |Rozumienie faktów i pojęć|
+|Jednostkowe                  |Zdarzenie, epizody | Fakty, pojęcia, idee |
+|Organizacja                  |Czasowa |Pojęciowa|
+|Odniesienie                  |Ja |Świat|
+|Kryteria prawdziwości        |Poznanie osobiste |Zgodność społeczna|
+|  |  |    | 
+|Kodowanie                    |Bezpośrednie, sensoryczne |Symboliczne|
+|Pytanie uwydatniające proces wydobycia        | Kiedy? Gdzie? | Co? |
+|Wrażliwość                   |Duża | Mała
+
+**Pamięć deklaratywna** - wspomnienia wydarzeń oraz wiedza o otaczającym świecie
+
+
+**Funkcje CWM (System kontroli uwagi)**
+ 
+ - zarządanie zawartością podręcznych magazynów
+ - ściąganie - przywoływanie informacji z pamięci długotrwałej
+ - nadzór nad bieżącym przetwarzaniem informacji
+ - koordynacja buforów pamięci roboczej
+ 
+ Jego pracę wspomaga kilka podręcznych magazynów pamięciowych. Są to:
+ 
+- **podręczna pamięć werbalna** - służy do chwilowego przechowywania reprezentacji werbalnych. Składa się ona z **magazynu fenologicznego** (system przechowywania oparty na mowie wewnętrznej: czas przechowywania - ok.23 sek. *ucho wewnętrzne*) oraz **pętli fenologicznej** (system werbalnych powtórek wewnętrznych i głos wewnętrzny)
+- **notes wzrokowo - przestrzenny** - krótkotrwałe przechowywanie informacji wzrokowych i przestrzennych.
+
+**Zapominanie** - zachodzi, gdy współzawodnicząca informacja sprawia, że coś zapominamy.
+
+>**Paradygmat (Browna-Petersonów)**
+Proszono badanych o odtworzenie trigramów po 3, 6, 9, 12, 15 i 18 sekundach od prezentacji ostatniej litery. Każdy badany był poddawany 8 próbom przy każdym z 6 odstępów czasowych. Po ustnej prezentacji trigremów Petersonowie prosili badanych o liczenie wspak trójkami.
+Po 18 sekundach trigram ulegał całkowitemu zapomnieniu.
+
+**Interferencja retroaktywna** jest spowodowana przez aktywność zachodzącą po tym jak czegoś się nauczyliśmy, ale zanim zostaliśmy poproszenie o odtworzenie tego.
+
+**Interferencja pasywna** - zachodzi wtedy, gdy interferujący materiał występuje przed, a nie po uczeniu się materiału, który ma być zapamiętany.
+Teorie zanikania zakłada, że informacja jest zapomniana z powodu stopniowego zacierania się, a nie przemieszczanie śladu pamięciowego.
+
+**Kodowanie** - proces, dzięki któremu fizyczne, zmysłowe dane zostają przekształcone w reprezentację, która może być przechowywana w pamięci.
+
+- główny czynnik wpływający na efektywność kodowania na liczbę powtórzeń
+- nastrój i stan świadomości wpływa na jakość kodowania
+- znaczenie przerwy między kolejnymi ekspozycjami materiału oraz organizacji materiału
+- znaczenie zgodności kontekstu zapamiętywania, a odtwarzania
+- znaczenie interferencji proaktywnej
+
+####Amnezja
+
+Najsilniejsze dowody na istnienie dwóch odrębnych magazynów pamięci dostarczają badania pzcjentów z uszkodzonym hipokampem.
+
+**Obustronne uszkodzenie hipokampa** - poważnie upośledza możliwość zapamiętywania faktów i zdarzeń w pamięci długotrwałej, jednocześnie nie uszkadzając pamięci krótkotrwałej. Pacjenci tego typu zachowują *zdolność logicznego myślenia* i wykonywania operacji na materiale werbalnym lub obrazach. Po krótkiej rozmowie z badaczem zapominają już jaki jest cel spotkania, jak ma na imię badacz itp.
+
+Jest to przykład *amnezji następczej*
+
+Przykład pacjenta H.M
+
+- Wieloletnia historia napadów padaczkowych
+- poddanie się operacji w celu usunięcia * przyśrodkowej powierzchni płatów skroniowych* obustronnie - hipokampy i ciała migdałowate (27 lat)
+- głęboko zaburzona pamięć epizodyczna (zachowane informacje do 16 r.ż., zaburzone z lat 16-27, brak możliwości zapamiętywania po zabiegu)
+- zachowana pamięć proceduralna
+- Brak szczegółowych wspomnień przez niemożliwość uaktualniania informacji
+
+Sytuacja, w której pacjent może się uczyć nowych faktów i zapamiętując nowe zdarzenia, ale nie pamięta wcześniejszych, nosi nazwę *amnezji wstecznej*
+
+**Pamięć utajona (niedeklaratywna)**
+
+Zdolność do nieświadomego zapamiętywania przeszłych zdarzeń i objawia się tym, że doświadczenia z przeszłości mają wpływ na aktualne zachowanie.
+
+**Pamięć proceduralna**
+
+część pamięci długotrwałej, pamięć działań i umiejętności. Jednym z najbardziej zaskakujących wyników badań pacjentów z uszkodzeniem hipokampa było odkrycie, że dane nie potrafią na dłużej zapamiętać żadnego faktu, ani zdarzenia, mogą nauczyć się pewnych czynności jak jazda na rowerze.
+
+Np. u pacjenta H.M *test lustra*. Badany próbuje odrysować gwiazdę, widząc swoją rękę wyłącznie w lustrze. Miarą jakości wykonywania jest liczba wyjść ołówka poza pokazany kontur gwiazdy. Okazuje się. że hipokamp, który odgrywa ważną rolę w tworzeniu wspomnień nie ma znaczenia dla nabywania umiejętności.
+
+Umiejętności i działania nie są dostępne świadomości
+
+**Uczenie percepcyjne** - specyficzna i długotrwała modyfikacji percepcji oraz zachowania na skutek odbierania i wykonywania w działaniu określonych bodźców .
+
+Kolejne 2 rodzaje pamięci niedeklaratywnej - *prymowanie percepcyjne* i *prymowanie koncepcyjne*
+
+### Teorie przedłużonej koncentracji
+- Liczba przedłużonych detekcji sygnału obniża się znacznie po upływie pół godziny, potem spadek jest mniej znaczący *(Mackworth)*
+- Spadek czynności jest mniejszy przy częstszym pojawieniu się bodźców znaczących *(Parasuraman i Doknes)*
+- W ciągu 45min badania czas reakcji wydłuża się o ok. 100ms *(Parasuraman i Doknes)*
+- Wraz ze wzrostem prawdopodobieństwa pojawienia się sygnału rośnie częstość prawidłowych odpowiedzi i fałszywych alarmów *(Baddeley)*
+
+**Oczekiwania**
+
+- Oczekiwania wpływają na poziom czujności - hipoteza subiektywnego prawdopodobieństwa *(Baker)*
+- Efekt spadku czujności uwagi może się nie ujawnić w złożonych zadaniach wymagających monitorowania sygnałów
+
+**Prawo Yerkesa-Dodsona** w odniesieniu do czujności uwagi - opisuje zależność między pobudzeniem emocjonalnym, a poziomem wykonywania zadań.
+
+- W miarę jak rośnie pobudzenie fizjologiczne, to coraz łatwiej jest wykonywać czynności, ale tylko do pewnego poziomu. Później następuje już tylko spadek efektywności, prowadzący w skrajnej sytuacji do całkowitej dezintegracji zachowania.
+- Dla zadań trudnych optymalny poziom pobudzenia jest niższy, niż dla zadań łatwych.
+
+###Uwaga
+**Uwaga** jest obejmowaniem w posiadanie przez umysł w jednej i żywej postaci jednego z wielu możliwych obiektów pojawiających się w strumieniu myśli. Jej istotą jest skupienie czy koncentracja świadomości. Obejmuje ona oddzielenie się od pewnych rzeczy po to, aby efektywnie radzić sobie z innymi.
+
+**Metafory uwagi**:
+
+- reflektor: uwaga intensywna i ekstensywna
+- filtr
+
+**Podstawowe funkcje uwagi**:
+
+- *mimowolne* - mechanizm percepcyjny wyspecjalizowany w detekcji bodźców ważnych dla naszego zachowania (szczególnie silnych, wyrazistych lub niespodziewanych)
+- odruch orientacyjny
+- *dowolna* - wolicjonalna - mechanizm percepcyjny związany z przygotowaniem i dokonaniem selekcji bodźców oraz reakcją określoną na cel czyli proces zastępujący (czyli wykorzystywana wiedza)
+
+**Parametry uwagi**:
+
+- czujność
+- zdolność podtrzymywania uwagi
+- zdolność skupienia, koncentracji
+- podzielność uwagi
+- uwaga w aspekcie przestrzennym - zdolność przeszukiwania pola percepcyjnego
+
+####Struktury mózgu
+
+- twór siatkowaty
+- wzgórze
+- kora mózgowa:
+     + brzuszno-boczna kora przedczołowa
+     + czołowa okolica okoruchowa
+     + płacik ciemieniowy górny
+     + połączenie skroniowo-ciemieniowe
+
+>**Paradygmat Posnera**
+Przed pojawieniem się bodźca (czerwone kółko), na który badany ma zareagować, pojawia się wskazówka przestrzenna w postaci zmiany barwy ramki albo wskazówka symboliczna w postaci strzałki, informującej badanego, gdzie prawdopodobnie pojawi się bodziec. Z eksperymentu wynika, że czas reakcji na bodźce w kwadracie wskazanym przez strzałkę jest krótszy niż czas reakcji na bodźce neutralne, a ten z kolei krótszy od bodźców, które pojawiły się po stronie przeciwnej do wskazanej przez strzałkę.
+
+**Mechanizmy uwagowe według Posnera**
+
+- wznowienie i podtrzymywanie uwagi
+- ukierunkowanie uwagi
+- kontrola procesów uwagi
+
+**Czynniki warunkujące proporcję poprawnych detekcji i fałszywych alarmów**:
+
+- stosunek siły sygnału do siły szumu
+- macierz wypłat (konsekwencje motywacji decyzji)
+- oczekiwania (częstość występowania sygnału w ważnych sytuacjach)
+
+###Teorie uwagi
+
+**Teoria filtru uwagowego Broadbenta**
+
+Zakładał on, że układy czuciowe (wzrok/słuch) początkowo przetwarzają informacje ze wszystkich źródeł w sposób równoległy. Jest to etap przeduwagowy: przed zalewem informacji nasz umysł chroni uwaga, która dokonuje selekcji informacji. Według Broadbenta uwaga działa jak filtr odrzucający te informacje, które nie spełniają konkretnych kryteriów.
+
+*Informacje niewyselekcjonowane przez uwagę są odrzucane.*
+
+Teoria filtra uwagowego *Broadbenta* została poprawiona przez *Anne Treisman*- **Teoria osłabiacza**
+Sygnał w kanale niewyselekcjonowanym przez uwagę zostaje osłabiony,a nie całkowicie stłumiony, jednak uświadamiamy sobie tylko ten, który przekracza wartość progową. Wysokość progów regulują aktualne cele, motywacje itd.
+
+*Dowód*- efekt własnego istnienia - może dotrzeć do świadomości, nawet jeśli pojawia się w kanale nieśledzonym.
+
+
+|Funkcja|Struktura|Główny przekaźnik|
+|:-----|:------:|-------:|
+|Czujność (system brzuszny)| Miejsce sinawe|Norepinefryna|
+|   |Prawy płat czołowy|   |
+|   |Prawy płat ciemieniowy|    |
+|   |    |   |
+|Ukierunkowanie uwagi| Płacik ciemieniowy|Acetylocholina|
+|(system grzbietowy)|Styk skroniowo-potyliczny|   |
+|   |Czołowe pole wzrokowe|   |
+|   |Wzgórze|   |
+|   |   |   |
+|Uwaga wykonawcza|Przednia część zakrętu obręczy| Dopamina
+|   |Jądra podstawy|    |
+
+
+*Grzbietowy system uwagowy*:
+
+- zstępujący (góra-dół)
+- wzrokowo-przestrzenny
+
+*Brzuszny system uwagowy*:
+
+- wstęujący (dół-góra)
+- umożliwia reorientację
+
+*Kontrola wykonawcza*:
+
+- system czołowo-ciemieniowy - zdolność zmiany nastawienia
+- system obręczowo-wieczkowy - podtrzymywanie nastawienia
+
+![Selekcje w procesach uwagi](uwaga.png)
+
+
+####Dowody późnej selekcji
+
+Działanie uwagi nie ogranicza się do wczesnych etapów przetwarzania informacji, jak to postulował Broadbent. Informacje w kanale nieśledzonym są przetwarzane (przynajmniej w jakimś stopniu) na wyższych etapach. Świadczy o tym fakt, że w odpowiedzi na bodźce przetwarzane w kanale nieśledzonym (czy poza ogniskiem uwagi) również pojawiają się zmiany w potencjałach wywołanych.
+
+>**Doświadczenie O'Craven** - 
+Nakładano na siebie 2 obrazy, jeden z nich przedstawiał twarz, a drugi budynek (Przy czym raz ruszał się budynek, a raz twarz). Badani mieli zwracać uwagę na bodziec nieruchomy lub ruchomy. Aktywizacja zakrętu wrzecionowego pojawiała się ilekroć była to twarz (pole twarzy FFA), natomiast jeśli był to budynek to pojawiała się aktywizacja zakrętu hipokampa (pole PPA)
+A więc zwrócenie uwagi na określony, złożony obiekt powoduje wzrost aktywności odpowiedniego ośrodka.
+
+**Teoria Nilli Lavie**
+
+Według niej uwaga może operować na różnych poziomach, a czynnikiem decydującym o poziomie selekcji jest obciążenie percepcyjne - trudność w rozpoznaniu bodźca - celu.
+Do każdego zadania ograniczone są wszystkie zasoby uwagowe. Kluczowa rola dociążenia percepcyjnego wynika z ich ograniczeń. Dopóki zadanie jest percepcyjnie łatwe, nie ma potrzeby selekcji: wszystkie bodźce są przetwarzane równolegle, ponieważ ilość zasobów jest wystarczająca. Negatywną konsekwencję stanowi fakt, że zaoszczędzona moc automatycznie przetwarza inne bodźce w polu widzenia, które badany powinien ignorować (dystraktory). Jeśli zadanie jest trudne, bodźce relewantne (istotne) pochłaniają wszystkie zasoby - wtedy dystraktory nie mają wpływu na wykonanie.
+
+**Teoria integracji cech**
+
+*Anne Treisman* jest autorką teorii, przypisującej uwadze dodatkową funkcję - łączenie informacji na temat bodźca w celu utworzenia spójnego procesu. W pewnych sytuacjach znalezienie celu nie zależy praktycznie od liczby dystraktorów. Z tym zjawiskiem mamy do czynienia, gdy cel posiada cechę, której nie posiada żaden z dystraktorów. Jeśli natomiast cel dzieli jedną cechę z każdnym znakiem tablicy, czas przeszukiwania jest tym dłuższy, im większa tablica znaków.
+
+*Model ze zdjęcia*
+
+Poszczególne cechy obiektów są kodowane w mapach cech, natomiast położenie obiektów w korze VI. Dopóki nie zadziała uwaga, cechy zaktywowane przez różne bodźce mogą zostać niewłaściwie powiązane.
+
+
+
+
+
+
+
+####Teorie podzielności uwagi
+
+Multikanałowa koncepcja uwagi selektywnej *(Allport)* 
+
+Uwaga może funkcjonować jako zestaw wielu niezależnych kanałów, zawierających własne filtry i zdolnych do niezależnych selekcji informacji. Pojedynczy filtr funkcjonuje zgodnie z koncepcją selekcji źródła informacji Broadbenta, Treisman, Deutshe i Deutshe czy Johnsona.
+Gdy konieczna jest koncentracja na zadaniu lub 1 obiekcie, bez zarzutu może funkcjonować 1 filtr uwagi. Nieprzewidywalne zadania i większe ryzyko błędu skutkuje wyborem przetwarzania jednokanałowego i szeregowego.
+
+Przetwarzanie jednoczesne w kilku kanałach nie musi się wiązać z kosztami poznawczymi.
+
+*Kahneman*
+
+Uwaga może funkcjonować jedynie pod warunkiem szeregowego, jednokanałowego przetwarzania informacji. Każdy system poznawczy dysponuje określoną ilością energii mentalnej, czy też mocy obliczeniowej, zwanej zasobami poznawczymi. System poznawczy wykorzystuje te zasoby przeznaczając je na wykonanie poszczególnych procesów przetwarzania informacji: to jest *Awitacja zasobów*. Wysiłek poznawczy wymaga zużycia paliwa mentalnego.
+
+W systemie poznawczym trwa nieustanna walka równolegle zachodzących procesów i zasobów uwagi.
+
+Pojemność uwagi - ilości zasobów poznawczych, które możemy skierować na wykonywanie zadań.
+
+**Ukierunkowanie zasobów poznawczych na zadania zależy od**:
+
+1. trudności zadania i oceny zapotrzebowania na zasady umysłowe
+2. poziomu pobudzenia
+3. polityki alokacyjnej
+4. trwałych dyspozycji
+5. chwilowych intencji i motywacji
+
+####Kilka dodatkowych danych####
+
+[Link do powtórzonego eksperymentu Milgrama](http://journals.sagepub.com/doi/abs/10.1177/1948550617693060)
+
+####Zegar mówiący o tym, że czas do sesji tyka####
+
+><div id="zegarek" style="FONT-WEIGHT:bold;SIZE:16PX;COLOR:orange; MARGIN-RIGHT: 4PX;"></div>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+<!-- <![CDATA[
+function zegar() {
+var data = new Date();
+var godzina = data.getHours();
+var min = data.getMinutes();
+var sek = data.getSeconds();
+ var terazjest = ""+godzina+
+((min<10)?":0":":")+min+
+((sek<10)?":0":":")+sek;
+document.getElementById("zegarek").innerHTML = terazjest;
+setTimeout("zegar()", 1000); }
+zegar();
+// ]]]]><![CDATA[> -->
+//--><!]]>
+</script>
+
+**Jedyna marka samochodu na jaki może pozwolić sobie student**
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+
+mpg %>% filter(manufacturer == "fiat")
+```
+
+**Garść kamieni z którejkolwiek grupy i człowiek jest szczęśliwy**
+```{r}
+ggplot(data = diamonds) +
+  geom_point(mapping = aes(x = carat, y = price, color = cut))
+```
+
+```{r include=FALSE}
+ library(tidyverse)
+library(ggplot2)
+
+mpg %>% filter(manufacturer == "fiat", year < 2000)
+```
+
+
