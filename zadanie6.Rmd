@@ -126,7 +126,7 @@ Teorie zanikania zakłada, że informacja jest zapomniana z powodu stopniowego z
 
 ####Amnezja
 
-Najsilniejsze dowody na istnienie dwóch odrębnych magazynów pamięci dostarczają badania pzcjentów z uszkodzonym hipokampem.
+Najsilniejsze dowody na istnienie dwóch odrębnych magazynów pamięci dostarczają badania pacjentów z uszkodzonym hipokampem.
 
 **Obustronne uszkodzenie hipokampa** - poważnie upośledza możliwość zapamiętywania faktów i zdarzeń w pamięci długotrwałej, jednocześnie nie uszkadzając pamięci krótkotrwałej. Pacjenci tego typu zachowują *zdolność logicznego myślenia* i wykonywania operacji na materiale werbalnym lub obrazach. Po krótkiej rozmowie z badaczem zapominają już jaki jest cel spotkania, jak ma na imię badacz itp.
 
@@ -320,11 +320,11 @@ Pojemność uwagi - ilości zasobów poznawczych, które możemy skierować na w
 4. trwałych dyspozycji
 5. chwilowych intencji i motywacji
 
-####Kilka dodatkowych danych####
+####Kilka dodatkowych danych
 
 [Link do powtórzonego eksperymentu Milgrama](http://journals.sagepub.com/doi/abs/10.1177/1948550617693060)
 
-####Zegar mówiący o tym, że czas do sesji tyka####
+####Zegar mówiący o tym, że czas do sesji tyka
 
 ><div id="zegarek" style="FONT-WEIGHT:bold;SIZE:16PX;COLOR:orange; MARGIN-RIGHT: 4PX;"></div>
 <script type="text/javascript">
